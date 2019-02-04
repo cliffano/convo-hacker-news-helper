@@ -1,6 +1,6 @@
 {
   "name": "convo-hacker-news-helper",
-  "version": "0.0.1",
+  "version": "0.0.2-pre",
   "description": "Helper node.js module for Convo Hacker News",
   "keywords": [
     "convo",
